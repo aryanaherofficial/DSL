@@ -1,0 +1,26 @@
+Practical Exam Guidelines:
+
+1. For test plans, prepare test plans in Open office software and also draw
+test plan table on the supplement provided for writing work.
+[Mention each attribute discussed in the practical]
+
+2. For test cases, prepare test case table in Open office software and also
+draw test case table on the supplement provided for writing work.
+Write minimum 3 test cases for any project given (For example, log in page
+test case, sign up page test case, and homepage test case)
+[Mention each attribute discussed in the practical]
+
+3. For Automation testing use Intellij IDEA as editor and Selenium tool as
+automation testing tool. Please check for every software requirement
+before performing practical i.e. JDK , Selenium files , Chromedriver , etc
+
+4. For Defect tracking prepare defect tracking report in Open office software
+and also write defect tracking report on the supplement provided for
+writing work.
+
+5. Prepare for web applications & mobile application like, E-commerce
+Website , Social Media App, Online Banking App, Online Pharmacy , Food
+delivery App, Messaging App, Library Management System , E learning
+Website , MET official Website , etc
+
+
